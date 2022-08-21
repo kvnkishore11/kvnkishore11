@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.cropdiv {
+  width: 1000px;
+  height: 800px;
+  overflow: hidden;
+margin: auto;}
+
+
+.crop {
+  position: relative;
+  top: -41px;
+}
+
+
+
